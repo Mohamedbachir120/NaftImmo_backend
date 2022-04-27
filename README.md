@@ -1,4 +1,4 @@
-# NAft Imo frontend 
+# NAft Imo Backend 
 
 This project was generated with Spring-boot.
 
